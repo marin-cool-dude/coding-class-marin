@@ -1,0 +1,8 @@
+name = input("Enter your name: ")
+phone_number = input("Enter your phone number: ")
+age = input("Enter your age: ")
+age = int(age)
+height = input("Enter your height: ")
+height = float(height)
+eircode = input("Enter your Eircode: ")
+print(name, phone_number, name, eircode, age, height, name, age, height, eircode)
