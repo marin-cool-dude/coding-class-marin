@@ -1,0 +1,8 @@
+Excellent work, a few small remarks:
+
+Exercise_3 the last value should not be in quotes
+
+Exercise_6 ralph is a value
+
+algorithms 2nd year 1 the simple interest formula should be divided by 100
+

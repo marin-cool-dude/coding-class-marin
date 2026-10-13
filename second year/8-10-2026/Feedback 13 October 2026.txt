@@ -1,0 +1,1 @@
+algorithms 2nd year 4 - when calculating the bonus, you need to multiply by 0.15 not divide.
