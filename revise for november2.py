@@ -37,3 +37,22 @@ elif(integer1 + integer3 == integer2):
 print("   ")
 
 season = input("Input the season:")
+if (season == "summer"):
+    chrys = 2
+    rose = 4.10
+    tulip = 2.50
+elif (season == "spring"):
+    chrys = 2
+    rose = 4.10
+    tulip = 2.50
+elif (season == "winter"):
+    chrys = 3.75
+    rose = 4.50
+    tulip = 4.15
+else: 
+    print("Invalid season!")
+amount1 = int(input("How many chrysanthemums do you want?: ")
+amount2 = int(input("How many roses do you want?: ")
+amount3 = int(input("How many tulips do you want?: ")
+fullprice = 2 +(amount1 * chrys) + (amount2 * rose) + (amount3 * tulip)
+#the 2 is the price of a bouquet
